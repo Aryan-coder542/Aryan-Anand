@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Anand</h1>
 <h3 align="center">Computer Science Engineering student with a passion for Data Analytics and Generative AI</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryananand&label=Profile%20views&color=0e75b6&style=flat" alt="aryananand" /> </p>
+
 
 ## About Me
 Hello! I'm currently pursuing my Bachelor's degree in **Computer Science and Engineering**. I'm passionate about **Data Analytics** and **Generative AI**, and I'm always excited to learn and explore new technologies.
